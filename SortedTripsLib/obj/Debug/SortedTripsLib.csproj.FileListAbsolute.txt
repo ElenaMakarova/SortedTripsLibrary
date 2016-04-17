@@ -1,0 +1,10 @@
+C:\Applications\SortedTripsLib\SortedTripsLib\bin\Debug\SortedTripsLib.dll
+C:\Applications\SortedTripsLib\SortedTripsLib\bin\Debug\SortedTripsLib.pdb
+C:\Applications\SortedTripsLib\SortedTripsLib\obj\Debug\SortedTripsLib.csprojResolveAssemblyReference.cache
+C:\Applications\SortedTripsLib\SortedTripsLib\obj\Debug\SortedTripsLib.dll
+C:\Applications\SortedTripsLib\SortedTripsLib\obj\Debug\SortedTripsLib.pdb
+C:\Applications\SortedFromGit\SortedTripsLib\bin\Debug\SortedTripsLib.dll
+C:\Applications\SortedFromGit\SortedTripsLib\bin\Debug\SortedTripsLib.pdb
+C:\Applications\SortedFromGit\SortedTripsLib\obj\Debug\SortedTripsLib.csprojResolveAssemblyReference.cache
+C:\Applications\SortedFromGit\SortedTripsLib\obj\Debug\SortedTripsLib.dll
+C:\Applications\SortedFromGit\SortedTripsLib\obj\Debug\SortedTripsLib.pdb

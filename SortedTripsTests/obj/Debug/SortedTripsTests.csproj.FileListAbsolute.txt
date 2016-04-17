@@ -1,0 +1,14 @@
+C:\Applications\SortedTripsLib\SortedTripsTests\bin\Debug\SortedTripsTests.dll
+C:\Applications\SortedTripsLib\SortedTripsTests\bin\Debug\SortedTripsTests.pdb
+C:\Applications\SortedTripsLib\SortedTripsTests\bin\Debug\SortedTripsLib.dll
+C:\Applications\SortedTripsLib\SortedTripsTests\bin\Debug\SortedTripsLib.pdb
+C:\Applications\SortedTripsLib\SortedTripsTests\obj\Debug\SortedTripsTests.csprojResolveAssemblyReference.cache
+C:\Applications\SortedTripsLib\SortedTripsTests\obj\Debug\SortedTripsTests.dll
+C:\Applications\SortedTripsLib\SortedTripsTests\obj\Debug\SortedTripsTests.pdb
+C:\Applications\SortedFromGit\SortedTripsTests\bin\Debug\SortedTripsTests.dll
+C:\Applications\SortedFromGit\SortedTripsTests\bin\Debug\SortedTripsTests.pdb
+C:\Applications\SortedFromGit\SortedTripsTests\bin\Debug\SortedTripsLib.dll
+C:\Applications\SortedFromGit\SortedTripsTests\bin\Debug\SortedTripsLib.pdb
+C:\Applications\SortedFromGit\SortedTripsTests\obj\Debug\SortedTripsTests.csprojResolveAssemblyReference.cache
+C:\Applications\SortedFromGit\SortedTripsTests\obj\Debug\SortedTripsTests.dll
+C:\Applications\SortedFromGit\SortedTripsTests\obj\Debug\SortedTripsTests.pdb
